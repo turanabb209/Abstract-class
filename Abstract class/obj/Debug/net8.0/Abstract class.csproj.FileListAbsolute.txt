@@ -2,3 +2,14 @@ C:\Users\dersu\OneDrive\Desktop\Abstract class\Abstract class\obj\Debug\net8.0\A
 C:\Users\dersu\OneDrive\Desktop\Abstract class\Abstract class\obj\Debug\net8.0\Abstract class.AssemblyInfoInputs.cache
 C:\Users\dersu\OneDrive\Desktop\Abstract class\Abstract class\obj\Debug\net8.0\Abstract class.AssemblyInfo.cs
 C:\Users\dersu\OneDrive\Desktop\Abstract class\Abstract class\obj\Debug\net8.0\Abstract class.csproj.CoreCompileInputs.cache
+C:\Users\dersu\OneDrive\Desktop\Abstract class\Abstract class\obj\Debug\net8.0\Abstract class.sourcelink.json
+C:\Users\dersu\OneDrive\Desktop\Abstract class\Abstract class\bin\Debug\net8.0\Abstract class.exe
+C:\Users\dersu\OneDrive\Desktop\Abstract class\Abstract class\bin\Debug\net8.0\Abstract class.deps.json
+C:\Users\dersu\OneDrive\Desktop\Abstract class\Abstract class\bin\Debug\net8.0\Abstract class.runtimeconfig.json
+C:\Users\dersu\OneDrive\Desktop\Abstract class\Abstract class\bin\Debug\net8.0\Abstract class.dll
+C:\Users\dersu\OneDrive\Desktop\Abstract class\Abstract class\bin\Debug\net8.0\Abstract class.pdb
+C:\Users\dersu\OneDrive\Desktop\Abstract class\Abstract class\obj\Debug\net8.0\Abstract class.dll
+C:\Users\dersu\OneDrive\Desktop\Abstract class\Abstract class\obj\Debug\net8.0\refint\Abstract class.dll
+C:\Users\dersu\OneDrive\Desktop\Abstract class\Abstract class\obj\Debug\net8.0\Abstract class.pdb
+C:\Users\dersu\OneDrive\Desktop\Abstract class\Abstract class\obj\Debug\net8.0\Abstract class.genruntimeconfig.cache
+C:\Users\dersu\OneDrive\Desktop\Abstract class\Abstract class\obj\Debug\net8.0\ref\Abstract class.dll

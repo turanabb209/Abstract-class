@@ -89,16 +89,16 @@ namespace Abstract_class
             }
             else
             {
-                Console.WriteLine("t");
+                Console.WriteLine(" AverageSpeed hesablamaq ucun zehmet olmasa deyisenleri duzgun daxil edin ");
             }
         }
         public virtual void GetInfo()
         {
-            Console.WriteLine("$$ ");
+            Console.WriteLine($"FactoryName: {FactoryName}\n Model:{Model}\n Color:{Color}\n DriveTime:{DriveTime}\n DrivePath:{DrivePath} ");
         }
-        public void ToString()
+        public override string  ToString()
         {
-
+            return $"FactoryName:{FactoryName}\n Model:{Model}";
         }
         public abstract void DefineNatureHarmness();
 
